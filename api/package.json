@@ -1,0 +1,25 @@
+{
+  "name": "billboard-api",
+  "version": "1.0.0",
+  "description": "A RESTful API that scrapes the internet to get billboard top 100 songs",
+  "main": "index.js",
+  "keywords": [
+    "songs",
+    "top",
+    "singing",
+    "api",
+    "nodejs"
+  ],
+  "author": "panda3141592@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}

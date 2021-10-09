@@ -1,0 +1,99 @@
+[
+    {
+        "item": "apple",
+        "expidays": "28"
+    },
+    {
+        "item": "orange",
+        "expidays": "7"
+    },
+    {
+        "item": "avocado",
+        "expidays": "5"
+    },
+    {
+        "item": "banana",
+        "expidays": "4"
+    },
+    {
+        "item": "blueberries",
+        "expidays": "7"
+    },
+    {
+        "item": "brocoli",
+        "expidays": "7"
+    },
+    {
+        "item": "carrot",
+        "expidays": "21"
+    },
+    {
+        "item": "cucumber",
+        "expidays": "7"
+    },
+    {
+        "item": "lettuce",
+        "expidays": "7"
+    },
+    {
+        "item": "cabbage",
+        "expidays": "7"
+    },
+    {
+        "item": "lemon",
+        "expidays": "21"
+    },
+    {
+        "item": "peach",
+        "expidays": "3"
+    },
+    {
+        "item": "potato",
+        "expidays": "25"
+    },
+    {
+        "item": "strawberry",
+        "expidays": "5"
+    },
+    {
+        "item": "tomato",
+        "expidays": "7"
+    },
+    {
+        "item": "watermelon",
+        "expidays": "7"
+    },
+    {
+        "item": "corn",
+        "expidays": "2"
+    },
+    {
+        "item": "mushrooms",
+        "expidays": "7"
+    },
+    {
+        "item": "pineapple",
+        "expidays": "4"
+    },
+    {
+        "item": "egg",
+        "expidays": "30"
+    },
+    {
+        "item": "milk",
+        "expidays": "10"
+    },
+    {
+        "item": "fruit",
+        "expidays": "5"
+    },
+    {
+        "item": "vegetable",
+        "expidays": "10"
+    },
+    {
+        "item": "zucchini",
+        "expidays": "7"
+    }
+
+]
